@@ -1,0 +1,23 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none; 
+    font-family: optimamedium, Arial, Helvetica, sans-serif;
+    color: #1f1f1f;
+    margin: 0;
+    letter-spacing: 0.5px;
+}
+
+label {
+    max-width: 60%;
+}
+
+.pad-top {
+    padding-top: 30px;
+}
