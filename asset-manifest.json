@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/booking-v2/static/css/main.efea2f5d.css",
+    "main.js": "/booking-v2/static/js/main.0a55eaf7.js",
+    "static/media/onh-nya-white.svg": "/booking-v2/static/media/onh-nya-white.c6c29c44b2a6f735f4bddcd533035f84.svg",
+    "index.html": "/booking-v2/index.html",
+    "main.efea2f5d.css.map": "/booking-v2/static/css/main.efea2f5d.css.map",
+    "main.0a55eaf7.js.map": "/booking-v2/static/js/main.0a55eaf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efea2f5d.css",
+    "static/js/main.0a55eaf7.js"
+  ]
+}
